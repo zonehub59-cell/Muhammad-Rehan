@@ -1,0 +1,23 @@
+{
+  "short_name": "MR Chat",
+  "name": "Malik Rehan Chatbot",
+  "description": "A WhatsApp-style chatbot application that allows users to ask questions and receive responses from the Gemini AI model.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#e7e5e4"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Malik Rehan Chatbot",
+  "description": "A WhatsApp-style chatbot application that allows users to ask questions and receive responses from the Gemini AI model (gemini-2.5-flash).",
+  "requestFramePermissions": []
+}
